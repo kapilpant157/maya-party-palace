@@ -62,7 +62,7 @@ h1,h2,h3,h4 {
 /* call to action */
 #call-to-action {
   background: rgb(33,26,26);
-  background: linear-gradient(121deg, rgba(33,26,26,1) 0%, rgba(64,0,145,1) 90%);
+  background: linear-gradient(121deg, rgb(106, 180, 240) 0%, rgb(248, 118, 118) 90%);
   min-height: 350px;
 }
 #call-to-action h1 {
