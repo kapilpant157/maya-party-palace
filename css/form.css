@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form_container{
+ margin-top: 30px;
+  display: none;
+}
+
+.applyform{
+    background-image:linear-gradient(rgb(122, 122, 202),rgb(206, 118, 118)) ;
+    display: flex;
+    flex-direction: column;
+    align-self: left;
+    justify-self: flex-start !important;
+    width: 100%;
+    border:2px solid black;
+    Padding:30px 20px 30px 20px;
+    border-radius: 10px;
+    
+ 
+}
+.applyform label {
+    /* display: inline-block; */
+    margin-right: auto;
+}
+.applyform_show{
+  display: block;
+    
+}
+
+input{
+    border-radius: 5px;
+    height: 30px;
+    margin-bottom: 10px;
+    border:1px solid black;
+}
+#celebration{
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+#date, #celebration{
+    width: 150px;
+}
+.submit{
+    width:100px;
+    border:1px solid black;
+    border-radius: 5px;
+}
+.checkbox_div{
+    display: flex;
+}
