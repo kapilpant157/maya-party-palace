@@ -50,10 +50,10 @@ h1,h2,h3,h4 {
 
 /* about */
 #about .info-img {
-  background: url("../img/about.jpg") no-repeat;
+  background: url("../img/about.jpeg") no-repeat;
   background-position: center;
   background-size: cover;
-  min-height: 300px;
+  min-height: 630px;
 }
 #about .info-about {
   padding: 1rem;
